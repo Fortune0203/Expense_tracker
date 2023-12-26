@@ -1,0 +1,11 @@
+export 'onbaording/onboarding.dart';
+export 'signupPage/signupPage.dart';
+export 'backToLoginPage/backToLoginPage.dart';
+export 'forgotPasswordPage/forgotPasswordPage.dart';
+export 'resetPasswordPage/resetPaswordPage.dart';
+export 'setupPinPage/setupPinPage.dart';
+export 'setupAccountPage/setupAccountPage.dart';
+export 'loginPage/loginPage.dart';
+export 'verificationPage/verificationPage.dart';
+export 'addNewAccountPage/addNewAccountPage.dart';
+export 'addNewWalletPage/addNewWalletPage.dart';
